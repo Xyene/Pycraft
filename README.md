@@ -3,6 +3,8 @@ Pycraft
 
 A partial Python Minecraft client implementation.
 
+![Pycraft terrain](https://dl.dropboxusercontent.com/u/67341745/ivybits/Pycraft.jpg)
+
 I've attempted to keep things as true to the vanilla Minecraft as possible, but some things were not possible due to the nature of Python.
 
 * Chunks are 8x8 rather than 16x16 to speed up both chunk generation and rendering.
