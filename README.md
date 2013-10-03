@@ -8,6 +8,8 @@ I've attempted to keep things as true to the vanilla Minecraft as possible, but 
 * Chunks are 8x8 rather than 16x16 to speed up both chunk generation and rendering.
 * Currently operates at 40 ticks/second
 
+Keep in mind that this is very much a work in progress, so things may change for the better from one day to the next.
+
 Usage
 -----
 
