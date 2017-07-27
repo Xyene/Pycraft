@@ -3,7 +3,7 @@ Pycraft
 
 A partial Python Minecraft client implementation.
 
-![Pycraft terrain](https://dl.dropboxusercontent.com/u/67341745/ivybits/Pycraft.jpg)
+![Pycraft terrain](https://xyene.dmuser.ml/assets/Pycraft.jpg)
 
 I've attempted to keep things as true to the vanilla Minecraft as possible, but some things were not possible due to the performance of Python.
 
